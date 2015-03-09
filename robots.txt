@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /demo
+
+# Archive.org
+User-agent: ia_archiver
+Disallow: /
