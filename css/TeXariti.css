@@ -3410,6 +3410,22 @@ http://lagrimadejarjayes.deviantart.com/art/corkboard-texture-351788341
   -webkit-transform: rotate(354deg);
   transform: rotate(354deg); }
 
+.design .benefit {
+  margin-bottom: 7rem; }
+
+.design .first-letter {
+  text-decoration: underline; }
+
+.design h2 {
+  margin-bottom: 4rem;
+  font-family: Merriweather, Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif;
+  font-size: 60px;
+  font-size: 3.75rem; }
+
+@media (min-width: 52em) {
+  .design h2 {
+    font-size: 100px;
+    font-size: 6.25rem; } }
 .design-viewport {
   background: transparent url("../photos/sweden-123784_640.jpg") no-repeat center center fixed;
   height: 50rem;

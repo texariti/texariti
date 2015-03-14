@@ -56,6 +56,539 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>http://texariti.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://texariti.com/projects/</guid>
+      <description>&lt;div class=&#34;project-viewport&#34;&gt;
+  &lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-main&#34;&gt;
+
+  &lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+
+        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
+          &lt;br&gt;
+          &lt;h1 class=&#34;page-header (tx-center) (m4b)&#34;&gt;Projects&lt;/h1&gt;
+
+          &lt;p class=&#34;lead&#34;&gt;We have exciting projects in progress! This is the future home of our portfolio.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!--
+  These progress bars are better:  https://css-tricks.com/examples/ProgressBars/
+
+  &lt;div class=&#34;project&#34;&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
+
+          &lt;h3&gt;Project Timeline&lt;/h3&gt;
+
+          &lt;div class=&#34;timeline&#34;&gt;
+            &lt;ul class=&#34;intervals clearfix&#34;&gt;
+              &lt;li class=&#34;first&#34;&gt;March 1&lt;/li&gt;
+              &lt;li&gt;March 8&lt;/li&gt;
+              &lt;li&gt;March 15&lt;/li&gt;
+              &lt;li&gt;March 22&lt;/li&gt;
+              &lt;li&gt;March 29&lt;/li&gt;
+              &lt;li&gt;April 5&lt;/li&gt;
+              &lt;li class=&#34;last&#34;&gt;April 12&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class=&#34;events&#34;&gt;
+              &lt;li style=&#34;width: 40%; left: 5%;&#34;&gt;Erin Cook &lt;em&gt;(current)&lt;/em&gt;&lt;/li&gt;
+              &lt;li style=&#34;width: 40.3%; left: 30%;&#34;&gt;Jeremy Sheets&lt;/li&gt;
+              &lt;li style=&#34;width: 71.3%; left: 28.4%;&#34;&gt;Musician website &lt;em&gt;(under discussion)&lt;/em&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+   --&gt;
+  &lt;br&gt;&lt;br&gt;
+
+
+  &lt;div class=&#34;project&#34;&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
+          &lt;a href=&#34;#&#34;&gt;&lt;img class=&#34;project-photo img-responsive img-center&#34; src=&#34;http://placehold.it/950x600/333333/999999&amp;text=In+Progress!&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+          &lt;h3&gt;Erin Elizabeth Cook&lt;/h3&gt;
+          &lt;h4&gt;Gifted Actor and Acting Coach&lt;/h4&gt;
+          &lt;p&gt;Erin is a gifted actress and an amazing teacher.  She has studied under some of the best teachers of the art of acting, and has appeared in Hollywood productions in TV and film. As a teacher, her care for her students is evident in how she strives to see them become the best they can be. Her career is one to watch!&lt;/p&gt;
+          &lt;a class=&#34;btn btn-primary&#34; href=&#34;#&#34;&gt;View Project &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;div class=&#34;blog-summary-divider&#34;&gt;
+      &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+          &lt;div class=&#34;col-sm-8 col-sm-offset-8&#34;&gt;
+            &lt;img src=&#34;../img/divider-2-by-kickthecork.com-181268.svg&#34; class=&#34;centered&#34; alt=&#34;divider&#34;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+
+  &lt;div class=&#34;project&#34;&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
+          &lt;a href=&#34;#&#34;&gt;&lt;img class=&#34;project-photo img-responsive img-center&#34; src=&#34;http://placehold.it/950x600/333333/999999&amp;text=Planning+Steps&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+          &lt;h3&gt;Jeremy Sheets&lt;/h3&gt;
+          &lt;h4&gt;Cellist and Actor&lt;/h4&gt;
+          &lt;p&gt;When Jeremy is on the strings of the cello, his hands may hold the instrument but the music comes from his heart. The atmosphere in the room changes when he begins to play. Jeremy is a performer, and is now expanding his performance skills as an actor on the stage and in film.&lt;/p&gt;
+          &lt;a class=&#34;btn btn-primary&#34; href=&#34;#&#34;&gt;View Project &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt; &lt;!-- .main --&gt;
+
+&lt;div class=&#34;divider-2&#34;&gt;
+  &lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-8 col-sm-offset-8&#34;&gt;
+        &lt;br&gt;&lt;br&gt;
+        &lt;img src=&#34;../img/openclipart.org__johnny-automatic-fancy-flourish.svg&#34; class=&#34;centered&#34; alt=&#34;divider&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://texariti.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://texariti.com/contact/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-xs-24 col-sm-offset-13 col-sm-11&#34;&gt;
+
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+
+      &lt;h2&gt;Contact Us!&lt;/h2&gt;
+
+      &lt;br&gt;
+
+      &lt;div class=&#34;contact-intro&#34;&gt;
+        &lt;p&gt;Hello! Thank you for visiting our new website.&lt;/p&gt;
+
+        &lt;p&gt;Just as there are seasons in the weather, there are seasons that companies go through. We have our Winters. Business can be tough! But Springtime will eventually come.&lt;/p&gt;
+
+        &lt;p&gt;We at &lt;i&gt;TeXariti&lt;/i&gt; want to be there with you this Winter. We know the web. We can help you plan for your Spring. We can help you get the most out of your online presence. We can help you find fertile soil in which to plant.&lt;/p&gt;
+
+        &lt;p&gt;We look forward to answering your questions. Send us an email, or give us a call. We hope to speak to you soon!&lt;/p&gt;
+
+        &lt;p&gt;Have a great day!
+
+        &lt;p&gt;And try to stay warm!&amp;nbsp;&amp;nbsp;:-)&lt;/p&gt;
+
+        &lt;p&gt;~ The Team at &lt;i&gt;TeXariti&lt;/i&gt;&lt;/p&gt;
+      &lt;/div&gt;
+
+
+      &lt;div class=&#34;contact-info&#34;&gt;
+        &lt;div class=&#34;contact-name&#34;&gt;Kendal King&lt;/div&gt;
+        &lt;div class=&#34;contact-eml&#34;&gt;
+          &lt;br&gt;
+          &lt;div class=&#34;eml3&#34;&gt;764ladnek&lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;eml1&#34;&gt;moc&lt;/span&gt;.
+            &lt;span class=&#34;none&#34;&gt;_neddih-liame_&lt;/span&gt;
+            &lt;span class=&#34;eml2&#34;&gt;liamg@&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;br&gt;
+         &lt;/div&gt;
+        &lt;div class=&#34;contact-phone&#34;&gt;479-206-0283&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&#34;contact-access&#34;&gt;
+       &lt;p&gt;The email address above is coded in a way that automated spam programs won&#39;t find it. You will need to type it into your email program; it won&#39;t copy and paste.&lt;/p&gt;
+       &lt;p&gt;For the visually disabled: Here is the email address in a sentence for screenreaders: Email &#34;&lt;i&gt;kendal&lt;/i&gt;&#34; and the number &#34;&lt;i&gt;467&lt;/i&gt;&#34; at the address &#34;&lt;i&gt;gmail&lt;/i&gt;&#34; that ends with &#34;&lt;i&gt;dot com&lt;/i&gt;.&#34;&lt;/p&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;winter-girl&#34;&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-8 col-sm-offset-2&#34;&gt;
+         &lt;div class=&#34;thankyou&#34;&gt;Thank you!&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Art-Directed Design</title>
+      <link>http://texariti.com/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://texariti.com/design/</guid>
+      <description>&lt;div class=&#34;design-viewport&#34;&gt;
+  &lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-8 col-sm-offset-2&#34;&gt;
+        &lt;h1 class=&#34;mega cl-white&#34;&gt;The website of your dreams!&lt;/h1&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;p class=&#34;drop-cap&#34;&gt;When people visit your website, what do they see?&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;What message does it send?&lt;/li&gt;
+          &lt;li&gt;Does it make them want to spend some time on your site?&lt;/li&gt;
+          &lt;li&gt;Does it catch their attention?&lt;/li&gt;
+          &lt;li&gt;Does it make them want your product or service?&lt;/li&gt;
+          &lt;li&gt;Do they think it is creative?&lt;/li&gt;
+          &lt;li&gt;Does it make them want to tell others to take a look at your site?&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Does it make them want to come?&lt;/em&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;p&gt;The emotional impact of your website is the key to the success of your business and the message you wish to convey.&lt;/p&gt;
+
+          &lt;p&gt;Today most people check out a company or church online before going. Think of it... the majority of the people who walk through your doors look at your website before come.&lt;/p&gt;
+
+        &lt;p&gt;What do you want to accomplish with your website? Is the website you have fulfilling this purpose? If not, you could be missing out on a lot of business.&lt;/p&gt;
+
+          &lt;h3&gt;The B-A-S-I-C-S&lt;/h3&gt;
+
+        &lt;p&gt;Our websites have...&lt;/p&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#beautiful&#34;&gt;B-eautiful&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#accessible&#34;&gt;A-ccessible&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#secure&#34;&gt;S-ecure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#intelligent&#34;&gt;I-ntelligent&lt;/a&gt;&lt;/li&gt;&lt;!-- imaginative, inspired, independent, insightful, intuitive,  --&gt;
+            &lt;li&gt;&lt;a href=&#34;#controllable&#34;&gt;C-ontrollable&lt;/a&gt;&lt;/li&gt; &lt;!-- creative, capable, --&gt;
+            &lt;li&gt;&lt;a href=&#34;#supported&#34;&gt;S-upported&lt;/a&gt;&lt;/li&gt;
+          &lt;ul&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;!-- ============================= --&gt;
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;beautiful&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;B&lt;/span&gt;eautiful&lt;/a&gt;&lt;/h2&gt;
+
+        &lt;h3&gt;Our websites are creative and beautiful!&lt;/h3&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;Inviting &lt;i&gt;front page&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;Page &lt;i&gt;layouts&lt;/i&gt; chosen with an eye on visual balance.&lt;/li&gt;
+              &lt;li&gt;Carefully selected &lt;i&gt;fonts&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;Colors&lt;/i&gt; that compliment your message.&lt;/li&gt;
+              &lt;li&gt;Subtle use of &lt;i&gt;backgrounds&lt;/i&gt; and &lt;i&gt;textures&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;Wonderful &lt;i&gt;photography&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;Use of visual &lt;i&gt;focal-points and whitespace&lt;/i&gt; that highlights your message.&lt;/li&gt;
+              &lt;li&gt;A &lt;i&gt;definite feel&lt;/i&gt;. What feel do you want the website to have? Peaceful and relaxing? Fast and bold?&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;Larger text&lt;/i&gt; that is the right size to comfortably read.&lt;/li&gt;
+              &lt;li&gt;Sometimes &lt;i&gt;&amp;ldquo;Less is more.&amp;rdquo;&lt;/i&gt; We&#39;ll help you find the right balance.&lt;/li&gt;
+              &lt;li&gt;Maximum &lt;i&gt;creativity&lt;/i&gt; with page themes.&lt;/li&gt;
+              &lt;li&gt;You can have &lt;i&gt;different styles, layouts, fonts, colors and backgrounds&lt;/i&gt; for any article you post.&lt;/li&gt;
+              &lt;li&gt;You can add &lt;i&gt;images and videos into any page&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;You can have &lt;i&gt;embedded videos&lt;/i&gt; from YouTube and Vimeo.&lt;/li&gt;
+              &lt;li&gt;Your articles will get &lt;i&gt;more attention!&lt;/i&gt;&lt;/li&gt;
+              &lt;li&gt;You can &lt;i&gt;have fun&lt;/i&gt; with your website.&lt;/li&gt;
+            &lt;/ul&gt;
+
+        &lt;h3&gt;Art Directed Design&lt;/h3&gt;
+
+        &lt;p&gt;Studies have shown that it takes only four to seven seconds for people to either decide to stay on a webpage they visit, or to click off or swipe away to another. Your site must grab attention quickly.&lt;/p&gt;
+
+        &lt;p&gt;There are two keys that your website must have to be successful: &lt;i&gt;1. It must be attractive &lt;em&gt;at first glance&lt;/em&gt;&lt;/i&gt;, and &lt;i&gt;2. It must have quality content so they will come back.&lt;/i&gt;&lt;/p&gt;
+
+        &lt;p&gt;The way to have a great website is to put the content first. Tell your story. Tell the stories of the people who believe in you. And have everything on your website revolve around that.&lt;/p&gt;
+
+        &lt;p&gt;We specialize in what is called &lt;em&gt;Art Directed Design&lt;/em&gt;. Art-directed design puts your message first, and the entire design of a page exists to promote that message.&lt;/p&gt;
+
+        &lt;p&gt;Each major page of an art-designed website has its own look, its own colors, its own character. And everything is used to the effect of pointing at the message. The result can be stunning!&lt;/p&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;!-- ============================= --&gt;
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;accessible&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;A&lt;/span&gt;ccessible&lt;/a&gt;&lt;/h2&gt;
+
+        &lt;h3&gt;Our websites work on mobile phones!&lt;/h3&gt;
+
+        &lt;p class=&#34;&#34;&gt;Our websites &lt;i&gt;adapt to any size of screen&lt;/i&gt;, from mobile phones, to tablets, to laptops, and to the largest desktop monitors.&lt;/p&gt;
+
+        &lt;p&gt;The latest statistics say that 70% of all internet viewing is now on mobile phones. Most businesses have websites that are not mobile-ready. When someone visits a non-mobile site all the person sees is the top left corner of the page, sometimes only the logo and a few words of the menu. &lt;/p&gt;
+
+        &lt;p&gt;You might tell people about your website at meetings or tradeshows. You want them to be able to pull up your website on their phone, and it needs to look good and work well. Not all websites can do that.&lt;/p&gt;
+
+        &lt;p&gt;Our websites use a design technique called &amp;ldquo;responsive design&amp;rdquo; that &lt;i&gt;automatically adapts to look good on all mobile devices&lt;/i&gt;. Your website will look good on a large monitor, a small monitor, a tablet or phone.&lt;/p&gt;
+
+
+
+        &lt;h3&gt;Accessible to search engines.&lt;/h3&gt;
+
+        &lt;p class=&#34;&#34;&gt;We follow the latest practices for SEO, or Search Engine Optimization, so your website will rank well on Google searches.&lt;/p&gt;
+
+        &lt;p&gt;We will work with you to make sure that your content is organized in a way that search engines can understand so they can accurately rank your website. SEO is an art form, and we will follow the best practices recognized by the industry and suggested by Google.&lt;/p&gt;
+
+        &lt;p&gt;We also leave behind the shadier techniques that some firms attempt, as these can get your website banned by Google. When someone promises you that they can &amp;ldquo;get your website ranked high&amp;rdquo; be very careful! The way to have a high ranking in Google is to have &lt;em&gt;good content&lt;/em&gt;. There is no reputable substitute for that.&lt;/p&gt;
+
+        &lt;p&gt;We know how to help you get your content ready!&lt;/p&gt;
+
+
+
+        &lt;h3&gt;Accessible to the blind.&lt;/h3&gt;
+
+        &lt;p class=&#34;&#34;&gt;We craft sites to be &lt;i&gt;accessible to the blind and visually disabled&lt;/i&gt;. We follow the latest accessibility standards and not only follow the guidelines, but we believe in them. We want the web to be accessible to all.&lt;/p&gt;
+
+        &lt;p&gt;We know how to implement federally-mandated requirements for access for websites operated by agencies of state, federal and local governments. These are basic practices which, in our view, all websites should follow.&lt;/p&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;secure&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;S&lt;/span&gt;ecure&lt;/a&gt;&lt;/h2&gt;
+
+        &lt;p&gt;We can work with our clients to use the software that they are already comfortable with. If you use a Content Management System (CMS) such as Wordpress we can help you. But we specialize in using an amazing, new software called &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+        &lt;p&gt;The &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo Static Generator&lt;/a&gt; is an amazing project. Your website is composed of files &lt;i&gt;on your computer&lt;/i&gt;, under your control.
+Hugo comes as a single file that you put in the same directory as your website. Turn on Hugo and it will automatically find your files and process them into a finished website. No installation is necessary!&lt;/p&gt;
+
+        &lt;p&gt;The benefits of this are numerous, but perhaps the best is that &lt;i&gt;your website is secure&lt;/i&gt;. You don&#39;t have to worry about hackers breaking into your website. You don&#39;t have to worry about server security. You don&#39;t have to remember to update the software! The software is on your computer, not the server.&lt;/p&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;intelligent&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;I&lt;/span&gt;ntelligent&lt;/a&gt;&lt;/h2&gt;
+
+        &lt;p&gt;A great website doesn&#39;t just happen. It is more than just a pretty design! You have to have a plan. Thousands of people are going to see your website, and it is an &lt;i&gt;investment&lt;/i&gt; to put a lot of thought into every detail.&lt;/p&gt;
+
+        &lt;p&gt;We will help you craft the most &lt;i&gt;intelligent&lt;/i&gt; plan for your web project. We will look at every detail. Here is just the start of a list of best practices:&lt;/p&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;Keep changing your website.&lt;/li&gt;
+              &lt;li&gt;Have only one major message at any one time.&lt;/li&gt;
+              &lt;li&gt;Your call to action needs to be clear.&lt;/li&gt;
+              &lt;li&gt;Keep in touch with your customers and members.&lt;/li&gt;
+              &lt;li&gt;Link to Facebook, Twitter, Pinterest, and other social websites.&lt;/li&gt;
+              &lt;li&gt;Have a subscription RSS news feed so people can subscribe to your website.&lt;/li&gt;
+              &lt;li&gt;An attractive contact page with a contact form lets your readers reach out to you.&lt;/li&gt;
+              &lt;li&gt;Have an Email Signup form on the front page if you can.&lt;/li&gt;
+              &lt;li&gt;Offer something for free (like a newsletter) to encourage people to give you their email addresses.&lt;/li&gt;
+              &lt;li&gt;Non-profits can set up a donations page. You may use Paypal, Amazon Donate, or some other payment method.&lt;/li&gt;
+            &lt;/ul&gt;
+
+        &lt;p&gt;We will walk you through many decisions, helping you understand the Pros and Cons of each. When your website is finished, you will know that you have been given the information you need to make informed choices.&lt;/p&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;controllable&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;C&lt;/span&gt;ontrol&lt;/a&gt;&lt;/h2&gt;
+
+        &lt;p&gt;You can have any content you want, and you can control it all.&lt;/p&gt;
+
+        &lt;h3&gt;You control your data&lt;/h3&gt;
+        &lt;p&gt; The original files are on your computer. You can edit, change, add to or delete any page or post or article at any time.&lt;/p&gt;
+
+        &lt;h3&gt;There is no lock-in!&lt;/h3&gt;
+        &lt;p&gt;You can quit at any time. You own the code. You will be provided the work as it is done as a .zip file or access to a &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; account.&lt;/p&gt;
+
+        &lt;h3&gt;There is no database&lt;/h3&gt;
+        &lt;p&gt;Your posts and articles are not kept in an inaccessible database. Your posts are normal text files, just like any other file in your computer&#39;s hard drive.&lt;/p&gt;
+
+        &lt;h3&gt;Future-proof&lt;/h3&gt;
+        &lt;p&gt;If a better static generator than Hugo comes along you can move your entire collection of pages and posts over to the new engine. That can be very difficult, or impossible, to do with a traditional CMS.&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+
+        &lt;h3&gt;Wordpress&lt;/h3&gt;
+        &lt;p&gt;We can also do Wordpress-powered websites, if that is what you prefer.&lt;/p&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- BENEFIT --&gt;
+
+&lt;div class=&#34;benefit&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+        &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
+
+        &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;supported&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;S&lt;/span&gt;upported&lt;/a&gt;&lt;/h2&gt;
+
+
+        &lt;h3&gt;Website Performance Analysis&lt;/h3&gt;
+
+        &lt;p&gt;We will make sure that your website is reaching your target audience. Using &lt;a href=&#34;http://www.google.com/analytics/&#34;&gt;Google Analytics&lt;/a&gt; or another web statistics service, we will work with you to fine-tune your website so that you are getting the most visits possible.&lt;/p&gt;
+
+
+        &lt;h3&gt;Maintenance Packages&lt;/h3&gt;
+
+        &lt;p&gt;Once your site is complete we won&#39;t leave you hanging. We offer &lt;i&gt;site maintenance packages&lt;/i&gt; to meet your unique needs.&lt;/p&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;Support and training&lt;/li&gt;
+              &lt;li&gt;Website maintenance&lt;/li&gt;
+              &lt;li&gt;On-site staff training&lt;/li&gt;
+              &lt;li&gt;Backups of website files, images and posts&lt;/li&gt;
+              &lt;li&gt;And any services you need...&lt;/li&gt;
+            &lt;/ul&gt;
+
+        &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Roadmap</title>
       <link>http://texariti.com/roadmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -406,197 +939,6 @@
 
   &lt;!-- ==================================== --&gt;
 
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>http://texariti.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://texariti.com/contact/</guid>
-      <description>&lt;div class=&#34;container&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;col-xs-24 col-sm-offset-13 col-sm-11&#34;&gt;
-
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-
-      &lt;h2&gt;Contact Us!&lt;/h2&gt;
-
-      &lt;br&gt;
-
-      &lt;div class=&#34;contact-intro&#34;&gt;
-        &lt;p&gt;Hello! Thank you for visiting our new website.&lt;/p&gt;
-
-        &lt;p&gt;Just as there are seasons in the weather, there are seasons that companies go through. We have our Winters. Business can be tough! But Springtime will eventually come.&lt;/p&gt;
-
-        &lt;p&gt;We at &lt;i&gt;TeXariti&lt;/i&gt; want to be there with you this Winter. We know the web. We can help you plan for your Spring. We can help you get the most out of your online presence. We can help you find fertile soil in which to plant.&lt;/p&gt;
-
-        &lt;p&gt;We look forward to answering your questions. Send us an email, or give us a call. We hope to speak to you soon!&lt;/p&gt;
-
-        &lt;p&gt;Have a great day!
-
-        &lt;p&gt;And try to stay warm!&amp;nbsp;&amp;nbsp;:-)&lt;/p&gt;
-
-        &lt;p&gt;~ The Team at &lt;i&gt;TeXariti&lt;/i&gt;&lt;/p&gt;
-      &lt;/div&gt;
-
-
-      &lt;div class=&#34;contact-info&#34;&gt;
-        &lt;div class=&#34;contact-name&#34;&gt;Kendal King&lt;/div&gt;
-        &lt;div class=&#34;contact-eml&#34;&gt;
-          &lt;br&gt;
-          &lt;div class=&#34;eml3&#34;&gt;764ladnek&lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;eml1&#34;&gt;moc&lt;/span&gt;.
-            &lt;span class=&#34;none&#34;&gt;_neddih-liame_&lt;/span&gt;
-            &lt;span class=&#34;eml2&#34;&gt;liamg@&lt;/span&gt;
-          &lt;/div&gt;
-          &lt;br&gt;
-         &lt;/div&gt;
-        &lt;div class=&#34;contact-phone&#34;&gt;479-206-0283&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&#34;contact-access&#34;&gt;
-       &lt;p&gt;The email address above is coded in a way that automated spam programs won&#39;t find it. You will need to type it into your email program; it won&#39;t copy and paste.&lt;/p&gt;
-       &lt;p&gt;For the visually disabled: Here is the email address in a sentence for screenreaders: Email &#34;&lt;i&gt;kendal&lt;/i&gt;&#34; and the number &#34;&lt;i&gt;467&lt;/i&gt;&#34; at the address &#34;&lt;i&gt;gmail&lt;/i&gt;&#34; that ends with &#34;&lt;i&gt;dot com&lt;/i&gt;.&#34;&lt;/p&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-  &lt;div class=&#34;winter-girl&#34;&gt;
-    &lt;div class=&#34;container-fluid&#34;&gt;
-      &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-sm-8 col-sm-offset-2&#34;&gt;
-         &lt;div class=&#34;thankyou&#34;&gt;Thank you!&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://texariti.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://texariti.com/projects/</guid>
-      <description>&lt;div class=&#34;project-viewport&#34;&gt;
-  &lt;div class=&#34;container-fluid&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-      &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;project-main&#34;&gt;
-
-  &lt;div class=&#34;container-fluid&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-      &lt;div class=&#34;row&#34;&gt;
-
-        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
-          &lt;br&gt;
-          &lt;h1 class=&#34;page-header (tx-center) (m4b)&#34;&gt;Projects&lt;/h1&gt;
-
-          &lt;p class=&#34;lead&#34;&gt;We have exciting projects in progress! This is the future home of our portfolio.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-  &lt;!--
-  These progress bars are better:  https://css-tricks.com/examples/ProgressBars/
-
-  &lt;div class=&#34;project&#34;&gt;
-    &lt;div class=&#34;container-fluid&#34;&gt;
-      &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
-
-          &lt;h3&gt;Project Timeline&lt;/h3&gt;
-
-          &lt;div class=&#34;timeline&#34;&gt;
-            &lt;ul class=&#34;intervals clearfix&#34;&gt;
-              &lt;li class=&#34;first&#34;&gt;March 1&lt;/li&gt;
-              &lt;li&gt;March 8&lt;/li&gt;
-              &lt;li&gt;March 15&lt;/li&gt;
-              &lt;li&gt;March 22&lt;/li&gt;
-              &lt;li&gt;March 29&lt;/li&gt;
-              &lt;li&gt;April 5&lt;/li&gt;
-              &lt;li class=&#34;last&#34;&gt;April 12&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;ul class=&#34;events&#34;&gt;
-              &lt;li style=&#34;width: 40%; left: 5%;&#34;&gt;Erin Cook &lt;em&gt;(current)&lt;/em&gt;&lt;/li&gt;
-              &lt;li style=&#34;width: 40.3%; left: 30%;&#34;&gt;Jeremy Sheets&lt;/li&gt;
-              &lt;li style=&#34;width: 71.3%; left: 28.4%;&#34;&gt;Musician website &lt;em&gt;(under discussion)&lt;/em&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-   --&gt;
-  &lt;br&gt;&lt;br&gt;
-
-
-  &lt;div class=&#34;project&#34;&gt;
-    &lt;div class=&#34;container-fluid&#34;&gt;
-      &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
-          &lt;a href=&#34;#&#34;&gt;&lt;img class=&#34;project-photo img-responsive img-center&#34; src=&#34;http://placehold.it/950x600/333333/999999&amp;text=In+Progress!&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-          &lt;h3&gt;Erin Elizabeth Cook&lt;/h3&gt;
-          &lt;h4&gt;Gifted Actor and Acting Coach&lt;/h4&gt;
-          &lt;p&gt;Erin is a gifted actress and an amazing teacher.  She has studied under some of the best teachers of the art of acting, and has appeared in Hollywood productions in TV and film. As a teacher, her care for her students is evident in how she strives to see them become the best they can be. Her career is one to watch!&lt;/p&gt;
-          &lt;a class=&#34;btn btn-primary&#34; href=&#34;#&#34;&gt;View Project &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-    &lt;div class=&#34;blog-summary-divider&#34;&gt;
-      &lt;div class=&#34;container-fluid&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-          &lt;div class=&#34;col-sm-8 col-sm-offset-8&#34;&gt;
-            &lt;img src=&#34;../img/divider-2-by-kickthecork.com-181268.svg&#34; class=&#34;centered&#34; alt=&#34;divider&#34;&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-
-  &lt;div class=&#34;project&#34;&gt;
-    &lt;div class=&#34;container-fluid&#34;&gt;
-      &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-sm-18 col-sm-offset-3&#34;&gt;
-          &lt;a href=&#34;#&#34;&gt;&lt;img class=&#34;project-photo img-responsive img-center&#34; src=&#34;http://placehold.it/950x600/333333/999999&amp;text=Planning+Steps&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-          &lt;h3&gt;Jeremy Sheets&lt;/h3&gt;
-          &lt;h4&gt;Cellist and Actor&lt;/h4&gt;
-          &lt;p&gt;When Jeremy is on the strings of the cello, his hands may hold the instrument but the music comes from his heart. The atmosphere in the room changes when he begins to play. Jeremy is a performer, and is now expanding his performance skills as an actor on the stage and in film.&lt;/p&gt;
-          &lt;a class=&#34;btn btn-primary&#34; href=&#34;#&#34;&gt;View Project &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt; &lt;!-- .main --&gt;
-
-&lt;div class=&#34;divider-2&#34;&gt;
-  &lt;div class=&#34;container-fluid&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-      &lt;div class=&#34;col-sm-8 col-sm-offset-8&#34;&gt;
-        &lt;br&gt;&lt;br&gt;
-        &lt;img src=&#34;../img/openclipart.org__johnny-automatic-fancy-flourish.svg&#34; class=&#34;centered&#34; alt=&#34;divider&#34;&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
