@@ -262,6 +262,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class=&#34;main&#34;&gt;
 
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
@@ -288,7 +289,7 @@
 
           &lt;h3&gt;The B-A-S-I-C-S&lt;/h3&gt;
 
-        &lt;p&gt;Our websites have...&lt;/p&gt;
+        &lt;p&gt;Our websites are...&lt;/p&gt;
           &lt;ul&gt;
             &lt;li&gt;&lt;a href=&#34;#beautiful&#34;&gt;B-eautiful&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a href=&#34;#accessible&#34;&gt;A-ccessible&lt;/a&gt;&lt;/li&gt;
@@ -311,18 +312,33 @@
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+     &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
 
         &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;beautiful&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;B&lt;/span&gt;eautiful&lt;/a&gt;&lt;/h2&gt;
 
-        &lt;h3&gt;Our websites are creative and beautiful!&lt;/h3&gt;
+        &lt;h3&gt;Web Design is an Art&lt;/h3&gt;
 
             &lt;ul&gt;
               &lt;li&gt;Inviting &lt;i&gt;front page&lt;/i&gt;.&lt;/li&gt;
@@ -371,11 +387,25 @@
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
@@ -427,11 +457,25 @@
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
@@ -460,11 +504,25 @@ Hugo comes as a single file that you put in the same directory as your website. 
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
@@ -505,11 +563,25 @@ Hugo comes as a single file that you put in the same directory as your website. 
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
@@ -550,11 +622,25 @@ Hugo comes as a single file that you put in the same directory as your website. 
 &lt;div class=&#34;benefit&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
 
+    &lt;div class=&#34;circle-divider&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
+          &lt;div class=&#34;letter-circle letter-circle-border&#34;&gt;
+            &lt;div class=&#34;letter-circle-inner&#34;&gt;
+              &lt;div class=&#34;letter-score-text&#34;&gt;&lt;/div&gt; &lt;!-- letter --&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!--
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-6 col-sm-offset-9 tx-center&#34;&gt;
         &lt;img class=&#34;img-circle img-responsive img-center&#34; src=&#34;http://placehold.it/600x600&#34; alt=&#34;&#34;&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+     --&gt;
 
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-16 col-sm-offset-4&#34;&gt;
@@ -585,6 +671,9 @@ Hugo comes as a single file that you put in the same directory as your website. 
 
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+&lt;/div&gt; &lt;!-- .main --&gt;
 </description>
     </item>
     
@@ -614,13 +703,13 @@ Hugo comes as a single file that you put in the same directory as your website. 
         &lt;p&gt;To help build communication, we will follow a few well-defined steps.&lt;/p&gt;
         &lt;p&gt;The best way to build something unique is to do it in stages. Designers call it &amp;ldquo;Agile development.&amp;rdquo;&lt;/p&gt;
         &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Step 1.&lt;/strong&gt; Lets say you want a static, great-looking landing page first. We would do that.&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; Then you want blog-posting ability on a Word Press engine. We would do that.&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; Next you want a newsletter designed and formatted. We would do that.&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Step 4.&lt;/strong&gt; You want a mobile version of the newsletter. We would do that.&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Step 5.&lt;/strong&gt; Next you want a Shopify store added into your website. We would do that.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Step 1.&lt;/strong&gt; Lets say you want a static, great-looking landing page first.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; Then you want blog-posting ability on a Word Press engine.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; Next you want a newsletter designed and formatted.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Step 4.&lt;/strong&gt; You want a mobile version of the newsletter.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Step 5.&lt;/strong&gt; Next you want a Shopify store added into your website.&lt;/li&gt;
         &lt;/ul&gt;
-        &lt;p&gt;This lets the client make decisions as they go and adapt to what is working and what isn&#39;t just right. You always want the bulk of your effort going into two things that are already working. A lot of people start something, have it work a little, and then say &#34;Hey, we could do also do C and D and E.&#34; If A and B are working, first focus on making A and B work as best as possible. Only then do you think about C.&lt;/p&gt;
+        &lt;p&gt;This lets the client make decisions as they go and adapt to what is working and what isn&#39;t just right.&lt;/p&gt;
         &lt;p&gt;Defining steps also allow the client pay for the project in stages. You only pay for what &lt;i&gt;TeXariti&lt;/i&gt; is currently doing. There is no long-term lock-in. You own the website and all code behind it.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
