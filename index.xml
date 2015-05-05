@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2015 Kendal King. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://texariti.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>We are &#39;Go&#39; for launch!</title>
       <link>http://texariti.com/blog/launch-day/</link>
-      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://texariti.com/blog/launch-day/</guid>
       <description>
@@ -210,19 +210,34 @@
       &lt;/div&gt;
 
 
+      &lt;!-- &lt;div class=&#34;contact-info&#34;&gt; --&gt;
+      &lt;!--   &lt;div class=&#34;contact-name&#34;&gt;Kendal King&lt;/div&gt; --&gt;
+      &lt;!--   &lt;div class=&#34;contact-eml&#34;&gt; --&gt;
+      &lt;!--     &lt;br&gt; --&gt;
+      &lt;!--     &lt;div class=&#34;eml3&#34;&gt;764ladnek&lt;/div&gt; --&gt;
+      &lt;!--     &lt;div&gt; --&gt;
+      &lt;!--       &lt;span class=&#34;eml1&#34;&gt;moc&lt;/span&gt;. --&gt;
+      &lt;!--       &lt;span class=&#34;none&#34;&gt;_neddih-liame_&lt;/span&gt; --&gt;
+      &lt;!--       &lt;span class=&#34;eml2&#34;&gt;liamg@&lt;/span&gt; --&gt;
+      &lt;!--     &lt;/div&gt; --&gt;
+      &lt;!--     &lt;br&gt; --&gt;
+      &lt;!--    &lt;/div&gt; --&gt;
+      &lt;!--   &lt;div class=&#34;contact-phone&#34;&gt;405-210-3955&lt;/div&gt; --&gt;
+      &lt;!-- &lt;/div&gt; --&gt;
+
       &lt;div class=&#34;contact-info&#34;&gt;
         &lt;div class=&#34;contact-name&#34;&gt;Kendal King&lt;/div&gt;
         &lt;div class=&#34;contact-eml&#34;&gt;
           &lt;br&gt;
-          &lt;div class=&#34;eml3&#34;&gt;764ladnek&lt;/div&gt;
+          &lt;div class=&#34;eml3&#34;&gt;ofni&lt;/div&gt;
           &lt;div&gt;
             &lt;span class=&#34;eml1&#34;&gt;moc&lt;/span&gt;.
             &lt;span class=&#34;none&#34;&gt;_neddih-liame_&lt;/span&gt;
-            &lt;span class=&#34;eml2&#34;&gt;liamg@&lt;/span&gt;
+            &lt;span class=&#34;eml2&#34;&gt;itiraxet@&lt;/span&gt;
           &lt;/div&gt;
           &lt;br&gt;
          &lt;/div&gt;
-        &lt;div class=&#34;contact-phone&#34;&gt;479-206-0283&lt;/div&gt;
+        &lt;div class=&#34;contact-phone&#34;&gt;405-210-3955&lt;/div&gt;
       &lt;/div&gt;
 
       &lt;div class=&#34;contact-access&#34;&gt;
@@ -273,17 +288,17 @@
 
         &lt;ul&gt;
           &lt;li&gt;What message does it send?&lt;/li&gt;
-          &lt;li&gt;Does it make them want to spend some time on your site?&lt;/li&gt;
+          &lt;!-- &lt;li&gt;Does it make them want to spend some time on your site?&lt;/li&gt; --&gt;
           &lt;li&gt;Does it catch their attention?&lt;/li&gt;
           &lt;li&gt;Does it make them want your product or service?&lt;/li&gt;
-          &lt;li&gt;Do they think it is creative?&lt;/li&gt;
-          &lt;li&gt;Does it make them want to tell others to take a look at your site?&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;Does it make them want to come?&lt;/em&gt;&lt;/li&gt;
+          &lt;!-- &lt;li&gt;Do they think it is creative?&lt;/li&gt; --&gt;
+          &lt;!-- &lt;li&gt;Does it make them want to tell others to take a look at your site?&lt;/li&gt; --&gt;
+          &lt;!-- &lt;li&gt;&lt;em&gt;Does it make them want to come?&lt;/em&gt;&lt;/li&gt; --&gt;
         &lt;/ul&gt;
 
         &lt;p&gt;The emotional impact of your website is the key to the success of your business and the message you wish to convey.&lt;/p&gt;
 
-          &lt;p&gt;Today most people check out a company or church online before going. Think of it... the majority of the people who walk through your doors look at your website before come.&lt;/p&gt;
+          &lt;p&gt;Most people check out a company or church online before going. Think of it... the majority of the people who walk through your doors have looked at your website first &lt;!-- before come --&gt;.&lt;/p&gt;
 
         &lt;p&gt;What do you want to accomplish with your website? Is the website you have fulfilling this purpose? If not, you could be missing out on a lot of business.&lt;/p&gt;
 
@@ -341,18 +356,18 @@
         &lt;h3&gt;Web Design is an Art&lt;/h3&gt;
 
             &lt;ul&gt;
+              &lt;li&gt;Sometimes &lt;i&gt;&amp;ldquo;Less is more.&amp;rdquo;&lt;/i&gt; &lt;!-- We&#39;ll help you find the right balance. --&gt;&lt;/li&gt;
+              &lt;li&gt;You can have &lt;i&gt;different styles, layouts, fonts, colors and backgrounds&lt;/i&gt; for any article you post.&lt;/li&gt;
               &lt;li&gt;Inviting &lt;i&gt;front page&lt;/i&gt;.&lt;/li&gt;
-              &lt;li&gt;Page &lt;i&gt;layouts&lt;/i&gt; chosen with an eye on visual balance.&lt;/li&gt;
-              &lt;li&gt;Carefully selected &lt;i&gt;fonts&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;Page &lt;i&gt;layouts&lt;/i&gt; are chosen with an eye on visual balance.&lt;/li&gt;
+              &lt;li&gt;Carefully selected &lt;i&gt;fonts&lt;/i&gt; and colors.&lt;/li&gt;
               &lt;li&gt;&lt;i&gt;Colors&lt;/i&gt; that compliment your message.&lt;/li&gt;
               &lt;li&gt;Subtle use of &lt;i&gt;backgrounds&lt;/i&gt; and &lt;i&gt;textures&lt;/i&gt;.&lt;/li&gt;
               &lt;li&gt;Wonderful &lt;i&gt;photography&lt;/i&gt;.&lt;/li&gt;
               &lt;li&gt;Use of visual &lt;i&gt;focal-points and whitespace&lt;/i&gt; that highlights your message.&lt;/li&gt;
-              &lt;li&gt;A &lt;i&gt;definite feel&lt;/i&gt;. What feel do you want the website to have? Peaceful and relaxing? Fast and bold?&lt;/li&gt;
-              &lt;li&gt;&lt;i&gt;Larger text&lt;/i&gt; that is the right size to comfortably read.&lt;/li&gt;
-              &lt;li&gt;Sometimes &lt;i&gt;&amp;ldquo;Less is more.&amp;rdquo;&lt;/i&gt; We&#39;ll help you find the right balance.&lt;/li&gt;
-              &lt;li&gt;Maximum &lt;i&gt;creativity&lt;/i&gt; with page themes.&lt;/li&gt;
-              &lt;li&gt;You can have &lt;i&gt;different styles, layouts, fonts, colors and backgrounds&lt;/i&gt; for any article you post.&lt;/li&gt;
+              &lt;li&gt;What feel do you want the website to have? Peaceful and relaxing? Fast and bold?&lt;/li&gt;
+              &lt;!-- &lt;li&gt;&lt;i&gt;Larger text&lt;/i&gt; that is the right size to comfortably read.&lt;/li&gt; --&gt;
+              &lt;!-- &lt;li&gt;Maximum &lt;i&gt;creativity&lt;/i&gt; with page themes.&lt;/li&gt; --&gt;
               &lt;li&gt;You can add &lt;i&gt;images and videos into any page&lt;/i&gt;.&lt;/li&gt;
               &lt;li&gt;You can have &lt;i&gt;embedded videos&lt;/i&gt; from YouTube and Vimeo.&lt;/li&gt;
               &lt;li&gt;Your articles will get &lt;i&gt;more attention!&lt;/i&gt;&lt;/li&gt;
@@ -361,15 +376,15 @@
 
         &lt;h3&gt;Art Directed Design&lt;/h3&gt;
 
-        &lt;p&gt;Studies have shown that it takes only four to seven seconds for people to either decide to stay on a webpage they visit, or to click off or swipe away to another. Your site must grab attention quickly.&lt;/p&gt;
+        &lt;p&gt;It takes only four to seven seconds for people to either decide to stay on a webpage or go to another. Your site must grab attention quickly.&lt;/p&gt;
 
-        &lt;p&gt;There are two keys that your website must have to be successful: &lt;i&gt;1. It must be attractive &lt;em&gt;at first glance&lt;/em&gt;&lt;/i&gt;, and &lt;i&gt;2. It must have quality content so they will come back.&lt;/i&gt;&lt;/p&gt;
+        &lt;p&gt;There are two keys that your website must have to be successful: &lt;i&gt;1. It must be attractive&lt;/i&gt;, and &lt;i&gt;2. It must have quality content so they will come back.&lt;/i&gt;&lt;/p&gt;
 
-        &lt;p&gt;The way to have a great website is to put the content first. Tell your story. Tell the stories of the people who believe in you. And have everything on your website revolve around that.&lt;/p&gt;
+        &lt;!-- &lt;p&gt;The way to have a great website is to put the content first. Tell your story. Tell the stories of the people who believe in you. And have everything on your website revolve around that.&lt;/p&gt; --&gt;
 
-        &lt;p&gt;We specialize in what is called &lt;em&gt;Art Directed Design&lt;/em&gt;. Art-directed design puts your message first, and the entire design of a page exists to promote that message.&lt;/p&gt;
+        &lt;p&gt;TeXariti specializes in &lt;em&gt;Art Directed Design&lt;/em&gt;. Art-directed design puts your message first, and the entire design of a page promotes that message.&lt;/p&gt;
 
-        &lt;p&gt;Each major page of an art-designed website has its own look, its own colors, its own character. And everything is used to the effect of pointing at the message. The result can be stunning!&lt;/p&gt;
+        &lt;p&gt;Each major page of an art-designed website has its own look, its own colors and its own character. Everything points to the message. The result can be stunning!&lt;/p&gt;
 
         &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
       &lt;/div&gt;
@@ -426,11 +441,11 @@
 
         &lt;h3&gt;Accessible to search engines.&lt;/h3&gt;
 
-        &lt;p class=&#34;&#34;&gt;We follow the latest practices for SEO, or Search Engine Optimization, so your website will rank well on Google searches.&lt;/p&gt;
+        &lt;p class=&#34;&#34;&gt;TeXariti will follow the latest practices of Search Engine Optimization. Your website will rank well on Google searches.&lt;/p&gt;
 
-        &lt;p&gt;We will work with you to make sure that your content is organized in a way that search engines can understand so they can accurately rank your website. SEO is an art form, and we will follow the best practices recognized by the industry and suggested by Google.&lt;/p&gt;
+        &lt;p&gt;TeXariti will make sure your content is organized in a way that search engines can understand so they can accurately rank your website. SEO is an art form, and we will follow the best practices recognized by the industry and suggested by Google.&lt;/p&gt;
 
-        &lt;p&gt;We also leave behind the shadier techniques that some firms attempt, as these can get your website banned by Google. When someone promises you that they can &amp;ldquo;get your website ranked high&amp;rdquo; be very careful! The way to have a high ranking in Google is to have &lt;em&gt;good content&lt;/em&gt;. There is no reputable substitute for that.&lt;/p&gt;
+        &lt;!-- &lt;p&gt;We also leave behind the shadier techniques that some firms attempt, as these can get your website banned by Google. When someone promises you that they can &amp;ldquo;get your website ranked high&amp;rdquo; be very careful! The way to have a high ranking in Google is to have &lt;em&gt;good content&lt;/em&gt;. There is no reputable substitute for that.&lt;/p&gt; --&gt;
 
         &lt;p&gt;We know how to help you get your content ready!&lt;/p&gt;
 
@@ -440,7 +455,7 @@
 
         &lt;p class=&#34;&#34;&gt;We craft sites to be &lt;i&gt;accessible to the blind and visually disabled&lt;/i&gt;. We follow the latest accessibility standards and not only follow the guidelines, but we believe in them. We want the web to be accessible to all.&lt;/p&gt;
 
-        &lt;p&gt;We know how to implement federally-mandated requirements for access for websites operated by agencies of state, federal and local governments. These are basic practices which, in our view, all websites should follow.&lt;/p&gt;
+        &lt;p&gt;We know how to implement federally-mandated access requirements for websites operated by agencies of state, federal and local governments. These are basic practices which, in our view, all websites should follow.&lt;/p&gt;
 
         &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
       &lt;/div&gt;
@@ -482,12 +497,11 @@
 
         &lt;h2 class=&#34;tx-center&#34;&gt;&lt;a id=&#34;secure&#34;&gt;&lt;span class=&#34;first-letter&#34;&gt;S&lt;/span&gt;ecure&lt;/a&gt;&lt;/h2&gt;
 
-        &lt;p&gt;We can work with our clients to use the software that they are already comfortable with. If you use a Content Management System (CMS) such as Wordpress we can help you. But we specialize in using an amazing, new software called &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;TeXariti can work with our clients to use the software that they are already comfortable with. We also work with an advanced, new software called &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 
-        &lt;p&gt;The &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo Static Generator&lt;/a&gt; is an amazing project. Your website is composed of files &lt;i&gt;on your computer&lt;/i&gt;, under your control.
-Hugo comes as a single file that you put in the same directory as your website. Turn on Hugo and it will automatically find your files and process them into a finished website. No installation is necessary!&lt;/p&gt;
+        &lt;p&gt;The &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo Static Generator&lt;/a&gt; is an amazing project. Your website is composed of files &lt;i&gt;on your computer&lt;/i&gt;, under your control. Hugo comes as a single file that you put in the same directory as your website. Turn on Hugo and it will automatically find your files and process them into a finished website. No installation is necessary!&lt;/p&gt;
 
-        &lt;p&gt;The benefits of this are numerous, but perhaps the best is that &lt;i&gt;your website is secure&lt;/i&gt;. You don&#39;t have to worry about hackers breaking into your website. You don&#39;t have to worry about server security. You don&#39;t have to remember to update the software! The software is on your computer, not the server.&lt;/p&gt;
+        &lt;p&gt;The benefits of this are numerous, but perhaps the best is that &lt;i&gt;your website is secure&lt;/i&gt;. You don&#39;t have to worry about hackers breaking into your website. &lt;!-- You don&#39;t have to worry about server security. You don&#39;t have to remember to update the software! The software is on your computer, not the server. --&gt;&lt;/p&gt;
 
         &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
       &lt;/div&gt;
@@ -531,7 +545,7 @@ Hugo comes as a single file that you put in the same directory as your website. 
 
         &lt;p&gt;A great website doesn&#39;t just happen. It is more than just a pretty design! You have to have a plan. Thousands of people are going to see your website, and it is an &lt;i&gt;investment&lt;/i&gt; to put a lot of thought into every detail.&lt;/p&gt;
 
-        &lt;p&gt;We will help you craft the most &lt;i&gt;intelligent&lt;/i&gt; plan for your web project. We will look at every detail. Here is just the start of a list of best practices:&lt;/p&gt;
+        &lt;p&gt;We will help you craft the most &lt;i&gt;intelligent&lt;/i&gt; plan for your web project. Here is just the start of a list of best practices:&lt;/p&gt;
 
             &lt;ul&gt;
               &lt;li&gt;Keep changing your website.&lt;/li&gt;
@@ -541,12 +555,12 @@ Hugo comes as a single file that you put in the same directory as your website. 
               &lt;li&gt;Link to Facebook, Twitter, Pinterest, and other social websites.&lt;/li&gt;
               &lt;li&gt;Have a subscription RSS news feed so people can subscribe to your website.&lt;/li&gt;
               &lt;li&gt;An attractive contact page with a contact form lets your readers reach out to you.&lt;/li&gt;
-              &lt;li&gt;Have an Email Signup form on the front page if you can.&lt;/li&gt;
+              &lt;li&gt;Have an Email Signup form on the front page.&lt;/li&gt;
               &lt;li&gt;Offer something for free (like a newsletter) to encourage people to give you their email addresses.&lt;/li&gt;
               &lt;li&gt;Non-profits can set up a donations page. You may use Paypal, Amazon Donate, or some other payment method.&lt;/li&gt;
             &lt;/ul&gt;
 
-        &lt;p&gt;We will walk you through many decisions, helping you understand the Pros and Cons of each. When your website is finished, you will know that you have been given the information you need to make informed choices.&lt;/p&gt;
+        &lt;p&gt;TeXariti will keep it simple! We will walk you through many decisions, helping you understand the Pros and Cons of each. When your website is finished, you will know that you have been given the information you need to make informed choices.&lt;/p&gt;
 
         &lt;p&gt;&lt;a href=&#34;#&#34;&gt;↑ Back to top&lt;/a&gt;&lt;/p&gt;
       &lt;/div&gt;
